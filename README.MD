@@ -5,7 +5,7 @@
 Open source PEMF project that includes the hardware and firmware for anyone looking to build their own PEMF device
 
 - Aren't there already some open source PEMF projects?  
-    Yes, but many of them do not create the same fields used in the majority of published PEMF parameters
+    Yes, but many of them do not create the same fields used in the majority of published PEMF parameters. Most of them also have switching characteristics that cause spurious spike and oscillations that could be considered "dirty electricity"
 
 - Why share this project?  
     Because PEMF with the right parameters has the ability to change peoples lives. From regenerating cartilage to reducing inflammation, many people get out of pain they have had for years. Something this powerful should not be stuck behind high price tags.
