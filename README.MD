@@ -47,7 +47,7 @@ https://www.ebay.com/itm/266629727778?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&s
 ![Alt text](<Readme Photos/IMG_20241211_120947249.jpg>)
 ![Alt text](<Readme Photos/IMG_20241211_121005525.jpg>)
 
-You can see that we used a simple circular connector to get the PEMF power through the enclosure. Ideally a 4 pin connector would be used for larger coils/currents.
+You can see that we used a simple circular connector to get the PEMF power through the enclosure. Ideally a 4 pin connector would be used for larger coils/currents. A handheld drill is an okay option to add the holes. Another option would be something 3D printed or laser cut. Please contribute these if you end up making them!
 
 The coil should be wound from some form of wire. The closer the wires are together, the more efficient the coil will be. Using regular insulated wire still works well, but you will get more magnetic field from using enameled magnet wire.
 
